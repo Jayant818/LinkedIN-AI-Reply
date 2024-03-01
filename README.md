@@ -1,4 +1,7 @@
 # LinkedIN AI Writer
+- *Click on the Image to watch the Youtube Video*
+[![Alt text](https://img.youtube.com/vi/OKzPAKG40CA/0.jpg)](https://www.youtube.com/watch?v=OKzPAKG40CA)
+
 
 
 <video controls>
