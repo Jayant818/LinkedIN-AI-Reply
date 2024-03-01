@@ -1,6 +1,7 @@
 # LinkedIN AI Writer
 
 <video controls src="./20240229-2148-09.0737159.mp4" title="Title"></video>
+[Click here to watch the video](20240229-2148-09.0737159.mp4)
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.
 
 ## Getting Started
