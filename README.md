@@ -1,5 +1,6 @@
-# ChatGPT Writer Take-Home Coding Assignment
+# LinkedIN AI Writer
 
+<video controls src="20240229-2148-09.0737159.mp4" title="Title"></video>
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.
 
 ## Getting Started
@@ -19,8 +20,6 @@ For further guidance, [visit our Documentation](https://docs.plasmo.com/).
 ## Where to edit?
 
 - The main code is located in src/content.tsx. By default, when you run the extension, it displays a static count button on the LinkedIn website. You need to replace it with your own code.
-
-![count btn on linkedin](count_btn_on_linkedin.png)
 
 ## Making production build
 
